@@ -1,6 +1,6 @@
 {
   "name": "webpro-react",
-  "homepage": "https://poyomain.github.io/webpro-react",
+  "homepage": "https://poyomain.github.io/WebPro-React",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
